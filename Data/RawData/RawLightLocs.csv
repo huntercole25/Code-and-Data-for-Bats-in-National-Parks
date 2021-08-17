@@ -1,0 +1,327 @@
+Light ID,Y,X,Position,Brightness Index Score,Color,Height,Directions Projected,Distance Cast,Building #,Switch Activated?,Other Info
+BC01,43.68811,110.73683,West most light illuminating the southwest side porch,3,Yellow-white,about 3 meters,"E ,S ,W",25 meters,1446,X,
+BC02,43.68808,110.73685,East most light illuminating the southwest side porch,3,Yellow-white,about 3 meters,"E, S, W",25 meters,1446,X,
+BERO01,43.93970,110.64348,On the peak of the roof above the south lab entrance,3,Blue-white,about 3 meters,"E, S, W",30 meters,1345,,
+BERO02,43.93970,110.64352,The light is below the roof of the east entrance to Berol Lodge,1,Yellow-white,about 1.5 meters,"N, E, S",15 meters,1345,,
+CBBS01,43.90146,110.64276,South most light fixture on the northeast side of the structure,3,Orange,about 4 meters,"E, SE, NW",40 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS02,43.90155,110.64281,Middle light fixture on the northeast side of the structure,3,Orange,about 4 meters,"E, SE, NW",40 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS03,43.90161,110.64280,North most light fixture on the northeast side of the structure,3,Orange,about 4 meters,"E, SE, NW",40 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS04,43.90168,110.64282,East most light fixture on the northwest side of the structure,3,Yellow-white,about 4 meters,"N, NE, SW",40 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS05,43.90172,110.64300,West most light fixture on the northwest side of the structure,3,Yellow-white,about 4 meters,"N, NE, SW",40 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS06,43.90173,110.64311,North most light fixture on the southwest side of the structure beneath the porch roof,3,Yellow-white,about 4 meters,"N, SE, NW",50 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS07,43.90166,110.64317,South most light fixture on the southwest side of the structure beneath the porch roof,3,Yellow-white,about 4 meters,"N, SE, NW",50 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBBS08,43.90141,110.64312,South most light fixture on the southwest side of the structure,3,Yellow-white,about 4 meters,"N, SE, NW",30 meters,N/A (Colter Bay Bait/Rental Shop),,
+CBES01,43.91219,110.63479,The only light on the north side of the structure ,2,Orange,about 6 meters,"N, E, W",15 meters,N/A (Colter Bay Emergency Services Garage),,
+CBES02,43.91213,110.63480,The only light on the west side of the structure,2,Orange,about 7 meters,"N, S, W",15 meters,N/A (Colter Bay Emergency Services Garage),,
+CBFR01,43.91230,110.63525,The lamp on the pole on the south east corner of the building,3,Blue-white,about 8 meters,"N, E, S, W",20 meters,241,,
+CBGP01,43.91356,110.63521,The only light on the east side of the structure,1,Yellow-white,about 2.5 meters,"N, E, S",10 meters,N/A (Colter Bay Gas Pump),,
+CBGS01,43.90503,110.64111,The north most light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS02,43.90512,110.64096,The second from the north light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS03,43.90501,110.64105,The third from the north light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS04,43.90487,110.64123,The fourth from the north light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS05,43.90477,110.64127,The fifth from the north light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS06,43.90470,110.64130,The south most light fixture on the east side of the structure,3,Orange,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,
+CBGS07,43.90496,110.64156,The south most light fixture on the west side of the structure,3,Orange,about 3 meters,"N, S, W",30 meters,N/A (Colter Bay General Store),,
+CBGS08,43.90496,110.64152,The second from south light fixture on the west side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS09,43.90496,110.64147,The third from south light fixture on the west side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS10,43.90470,110.64130,The fourth from south light fixture on the west side of the structure,3,White,about 3 meters,"N, E, S",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS11,43.90518,110.64139,The only light on a north facing wall on the west side of the structure,3,Orange,about 3 meters,"N, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS12,43.90516,110.64131,The fifth from south light fixture on the west side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS13,43.90522,110.64132,The north most light fixture on the west side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS14,43.90521,110.64117,The west most light fixture on the north side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBGS15,43.90520,110.64118,The west light fixture under the roof above the restrooms on the north side of the structure,3,Orange,about 3 meters,N,20 meters,N/A (Colter Bay General Store),,
+CBGS16,43.90520,110.64113,The east light fixture under the roof above the restrooms on the north side of the structure,3,Orange,about 3 meters,N,20 meters,N/A (Colter Bay General Store),,
+CBGS17,43.90519,110.64114,The east most light fixture on the north side of the structure,3,Orange,about 3 meters,"N, S, W",20 meters,N/A (Colter Bay General Store),,"There is a shield on the front of the light that limits the light projected outward, and concentrated light down."
+CBNG01,43.91351,110.63441,The light furthest south on the east side of the building,3,Blue-white,about 5.5 meters,E,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG02,43.91371,110.63448,The second light from the south on the east side of the building,4,Blue-white,about 5.5 meters,E,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG03,43.91389,110.63439,The north most light on the east side of the building,4,Blue-white,about 5.5 meters,E,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG04,43.91394,110.63458,The only light on the north side of the building,3,Blue-white,about 5.5 meters,N,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG05,43.91388,110.63471,The north most light on the west side of the building,4,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG06,43.91386,110.63473,The second light from the north on the west side of the building,4,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG07,43.91374,110.63485,The third light from the north on the west side of the building,4,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG08,43.91357,110.63490,The fourth light from the north on the west side of the building,4,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG09,43.91353,110.63477,The fifth light from the north on the west side of the building,3,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG10,43.91343,110.63491,The sixth light from the north on the west side of the building,3,Blue-white,about 5.5 meters,W,10 meters,N/A (Auto Shop/Roads Shop),,
+CBNG11,43.91334,110.63465,The only light on the south side of the building,3,Blue-white,about 5.5 meters,S,10 meters,N/A (Auto Shop/Roads Shop),,
+CBRS01,43.91179,110.63458,The only light on the west side of the building,3,Yellow-white,about 2.3 meters,"N, S, W",10 meters,N/A (Colter Bay Ranger Station),,
+CBRV01,43.90572,110.64105,Light above the east entrance to the structure,3,White,about 4 meters,"N, E, S",50 meters,N/A (Colter Bay RV Office),,
+CBVC01,43.90314,110.64352,North most light fixture on the northeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,NE,5 meters,218,,The vast majority of the light cast stays below the roof
+CBVC02,43.90314,110.64349,Second from north light fixture on the northeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,NE,5 meters,218,,The vast majority of the light cast stays below the roof
+CBVC03,43.90312,110.64349,Third from north light fixture on the northeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,NE,5 meters,218,,The vast majority of the light cast stays below the roof
+CBVC04,43.90308,110.64343,The south most light fixture on the northeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,NE,5 meters,218,,The vast majority of the light cast stays below the roof
+CBVC05,43.90310,110.64341,The east most light fixture on the southeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,,,218,,All light stays below roof
+CBVC06,43.90306,110.64338,The middle light fixture on the southeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,,,218,,All light stays below roof
+CBVC07,43.90300,110.64348,The west most light fixture on the southeast side of the structure beneath the walkway roof,3,Yellow-white,about 2.5 meters,S,30 meters,218,,
+CBVC08,43.90301,110.64358,The light fixture above the porch on the southwest side of the structure,3,Yellow-white,about 3 meters,"SE, W, NW",40 meters,218,,
+CBVC09,43.90301,110.64358,The light fixture above the stairs coming off the porch on the southwest side of the structure,3,Yellow-white,about 3 meters,"SE, SW",40 meters,218,,
+CC01,43.90539,110.63894,Light fixture on the east side of the northeast entrance to the structure,1,Yellow-white,about 2 meters,"N, SE, NW",30 meters,N/A (Colter Bay Registration Office),,
+CC02,43.90540,110.63895,Light fixture on the west side of the northeast entrance to the structure,1,Yellow-white,about 2 meters,"N, SE, NW",30 meters,N/A (Colter Bay Registration Office),,
+CC03,43.90522,110.63914,Light fixture on the north side of the northwest side of the structure,3,White,about 2 meters,"N, W",40 meters,N/A (Colter Bay Registration Office),,
+CC04,43.90504,110.63915,Light fixture on the south side of the northwest side of the structure,2,Yellow-white,about 2 meters,"N, W",40 meters,N/A (Colter Bay Registration Office),,
+CC05,43.90498,110.63920,Light fixture on the southwest side of the structure,2,Yellow-white,about 2 meters,"SE, S, NW",40 meters,N/A (Colter Bay Registration Office),,
+CC06,43.90503,110.63905,Light fixture on the southeast side of the structure,3,White,about 2 meters,"NE, E, SW",40 meters,N/A (Colter Bay Registration Office),,
+CC07,43.90458,110.63987,Light on the north side of the structure by the entrance,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 202, 204)",X,
+CC08,43.90319,110.64111,Light on the east side of the north entrance to the structure,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 219, 221, 223, 225, 227)",X,
+CC09,43.90319,110.64100,Light on the west side of the north entrance to the structure,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 219, 221, 223, 225, 227)",X,
+CC10,43.90291,110.64099,Light on the north side of the structure,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 231, 233)",X,
+CC11,43.90409,110.63966,Light on the south side of the structure next to the door to room 408,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 402, 404, 406, 408, 410, 412, 414)",X,
+CC12,43.90393,110.63992,Light on the south side of the structure next to the entrance to room 416,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 416, 418)",X,
+CC13,43.90304,110.64034,Light on the north side of the structure by the entrance to room 435,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 435, 437, 439, 441)",X,
+CC14,43.90294,110.64041,Light on the north side of the structure between the entrances to rooms 439 and 441,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 435, 437, 439, 441)",X,
+CC15,43.90303,110.64063,Light on the south side of the structure between the entracnes to rooms 436 and 438,1,White,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 436, 438)",X,
+CC16,43.90261,110.64054,Light on the north side of the structure by the entrance to room 443,1,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 443, 445)",X,
+CC17,43.90446,110.63861,Light on the east side of the structure by the entrance to room 606,1,Yellow-white,about 2 meters,"N, E, S",30 meters,"N/A (Colter Bay Cabin Rooms 606, 608)",X,
+CC18,43.90363,110.63925,Light on the east side of the structure by the entrance to room 621,1,Yellow-white,about 2 meters,"N, E, S",30 meters,"N/A (Colter Bay Cabin Rooms 621, 623)",X,
+CC19,43.90347,110.63931,Light on the west side of the structure by the entrance to room 623,1,Yellow-white,about 2 meters,"N, W, S",30 meters,"N/A (Colter Bay Cabin Rooms 621, 623)",X,
+CC20,43.90367,110.63952,Light on the south side of the structure between the entrances to rooms 612 and 614,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 612, 614)",X,
+CC21,43.90327,110.63986,Light on the south side of the structure by the entrance to room 624,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 624, 626, 628)",X,
+CC22,43.90316,110.63981,Light on the south side of the structure by the entrance to room 628,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 624, 626, 628)",X,
+CC23,43.90276,110.63966,Light is on the east side of the structure by the entrance to room 637,1,Yellow-white,about 2 meters,"N, E, S",30 meters,"N/A (Colter Bay Cabin Rooms 637, 639)",X,
+CC24,43.90247,110.63978,Light is on the east side of the structure by the entrance to room 641,1,Yellow-white,about 2 meters,"N, E, S",30 meters,"N/A (Colter Bay Cabin Rooms 641, 643)",X,
+CC25,43.90394,110.63771,Light is on the north side of the structure by the entrance to room 805,1,White,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 805, 807)",X,
+CC26,43.90408,110.63815,Light on the south side of the structure by the entrance to room 806,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 806, 808)",X,
+CC27,43.90365,110.63759,Light is on the south side of the strucure below the porch by the entrance to room 1008,1,Yellow-white,about 2 meters,S,30 meters,"N/A (Colter Bay Cabin Rooms 1006, 1008)",X,
+CC28,43.90232,110.64091,Light fixture above the guest lounge sign on the south side of the structure,1,Yellow-white,about 2 meters,"E, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 454, 456, 458, Lounge)",X,
+CC29,43.90224,110.64104,Light fixture on the west side of the guest lounge,1,Yellow-white,about 2 meters,"N, S, W",30 meters,"N/A (Colter Bay Cabin Rooms 454, 456, 458, Lounge)",X,
+CC30,43.90166,110.64034,Light on the north side of the structure by the entrance to room 484,3,Yellow-white,about 2 meters,"N, E, W",30 meters,"N/A (Colter Bay Cabin Rooms 484, 486)",X,
+CC31,43.90477,110.64128,North most light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC32,43.90445,110.64158,Second from north light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC33,43.90409,110.64194,Third from north light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC34,43.90373,110.64227,Fourth from north light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,"This light is more recessed within the fixture compared to others, and so projects light slightly more downward"
+CC35,43.90341,110.64259,Fifth from north light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC36,43.90291,110.64218,South most light on the west side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC37,43.90331,110.64189,Second from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC38,43.90372,110.64146,Third from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC39,43.90407,110.64111,Fourth from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC40,43.90445,110.64075,Fifth from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,"This light is more recessed within the fixture compared to others, and so projects light slightly more downward."
+CC41,43.90482,110.64039,Sixth from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,"This light is more recessed within the fixture compared to others, and so projects light slightly more downward"
+CC42,43.90517,110.64026,Seventh from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC43,43.90562,110.63997,Eighth from south light on the east side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay North Parking Lot),,
+CC44,43.90367,110.64306,East most light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC45,43.90398,110.64346,Second from east light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,"This light is more recessed within the fixture compared to others, and so projects light slightly more downward."
+CC46,43.90485,110.64465,West most light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC47,43.90446,110.64507,West most light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC48,43.90419,110.64460,Second from west light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC49,43.90386,110.64423,Third from west light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC50,43.90358,110.64384,Fourth from west light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC51,43.90293,110.64311,Fifth light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay West Parking Lot),,
+CC52,43.90245,110.64266,West most light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CC53,43.90166,110.64225,Second from west light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CC54,43.90125,110.64216,East most light on the south side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CC55,43.90122,110.64146,East most light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CC56,43.90166,110.64153,Second from east light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CC57,43.90213,110.64173,Third from east light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,"This light is more recessed within the fixture compared to others, and so projects light slightly more downward."
+CC58,43.90249,110.64198,West most light on the north side of the parking lot,3,Orange,about 8 meters,"N, E, S, W",50 meters,N/A (Colter Bay East Parking Lot),,
+CE17_01,43.91171,110.63739,The light is in the structure's northwest side doorway,3,White,about 2.5 meters,"NE, NW",15 meters,265,X,
+CE18_01,43.91168,110.63683,The light is on the southeast side of south corner of the structure,3,Blue-white,about 4 meters,"NE, E, S, SW",20 meters,263,X,
+CE27_01,43.91064,110.63769,Lamp illuminating the walkway to the building,2,Yellow-white,about 3 meters,"N, E, S, W",30 meters,1439,,There is a shield on the top of the fixture that directs light downward.  
+CE27_02,43.91048,110.63779,Light fixture on the west wall of the entrance to the structure illuminating the lower porch,2,Yellow-white,about 2.5 meters,"N, E, S",30 meters,1439,X,There is a shield on the top of the fixture that directs light downward.  
+CE27_03,43.91053,110.63778,Light fixture on the south wall of the structure illuminating the stairway,2,Yellow-white,about 2.5 meters,"N, E, W",30 meters,1439,,There is a shield on the top of the fixture that directs light downward.  
+CE28_01,43.91059,110.63735,Lamp illuminating the walkway to the building,2,Yellow-white,about 3 meters,"N, E, S, W",30 meters,887,,There is a shield on the top of the fixture that directs light downward.  
+CE28_02,43.91055,110.63731,Light fixture on the west wall of the entrance to the structure illuminating the lower porch ,2,Yellow-white,about 2.5 meters,"N, E, S",30 meters,887,X,There is a shield on the top of the fixture that directs light downward.  
+CE28_03,43.91055,110.63729,Light fixture on the south wall of the structure illuminating the stairway,2,Yellow-white,about 2.5 meters,"N, E, W",30 meters,887,,There is a shield on the top of the fixture that directs light downward.  
+CE28_04,43.91058,110.63734,Light fixture on the east wall of the entrance to the structure illuminating the upper porch,2,Yellow-white,about 2.5 meters,"N, S, W",30 meters,887,X,There is a shield on the top of the fixture that directs light downward.  
+CECS_01,43.91082,110.63634,Light fixture illuminating a charging station on the southeast side of the structure,2,Yellow-white,about 2 meters,,,670,,Light is only down from the fixture because of a frame around the light that covers the light and only allows light to go down.
+CECS_02,43.91085,110.63629,Light fixture on the northeast wall of the structure,2,Yellow-white,about 3 meters,"N, E, S",15 meters,670,,
+CECS_03,43.91086,110.63629,Light fixture on the east side of the northwest wall of the structure,2,Yellow-white,about 3 meters,"N, E, W",15 meters,670,,
+CECS_04,43.91092,110.63639,Light fixture on the west side of the northwest wall of the structure,2,Yellow-white,about 3 meters,"N, E, W",15 meters,670,,
+CEW1,43.91175,110.63576,Located on the west end of the walkway between CE03 and CE04,4,White,about 3 meters,"N, E, S, W",5 meters,N/A (Between 245 and 246),,
+DRCA1,43.93877,110.64180,Beneath roof on the north end of the west side of the Director's Cabin,1,Yellow-white,about 1.5 meters,"N, S, W",5 meters,1349,,
+HI01,43.70845,110.72937,Light on the north side of the structure above the stairs to get into the upper part of the structure,3,Yellow-white,about 6 meters,"N, E, W",60 meters,1049,X,
+JCCC01,43.90316,110.64146,Light fixture on the ceiling above walkway around structure on the north side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC02,43.90319,110.6415,Light fixture on the ceiling above walkway around structure on the north side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC03,43.90318,110.64156,Light fixture on the ceiling above walkway around structure on the north side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC04,43.90318,110.64162,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC05,43.90316,110.64167,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC06,43.90311,110.64171,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC07,43.90305,110.64168,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC08,43.90305,110.64168,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC09,43.90300,110.64170,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC10,43.90302,110.64173,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC11,43.90302,110.64177,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC12,43.90299,110.64181,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC13,43.90303,110.64188,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC14,43.90303,110.64188,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC15,43.90302,110.64185,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC16,43.90297,110.64185,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC17,43.90295,110.64185,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC18,43.90289,110.64186,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC19,43.90282,110.64187,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC20,43.90278,110.64189,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC21,43.90273,110.64190,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC22,43.90268,110.64187,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC23,43.90273,110.64186,Light fixture on the ceiling above walkway around structure on the west side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC24,43.90276,110.64183,Light fixture on the ceiling above walkway around structure on the south side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JCCC25,43.90276,110.64177,Light fixture on the ceiling above walkway around structure on the south side of the structure,3,White,about 3 meters,"N, S, W",10 meters,N/A (John Colter Café),,There is a shield around the light that restricts the beam of light down
+JLGS01,43.75187,110.72161,The western-most light on the north side of the building below the porch roof,3,Yellow-white,about 4 meters,"N, E, W",5-20 meters,JS-01,,"The light is projected to the north, east, and west below the porch roof between 5m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JLGS02,43.75170,110.72204,The second light from the west on the north side of the building below the porch roof ,3,Yellow-white,about 4 meters,"N, E, W",5-20 meters,JS-01,,"The light is projected to the north, east, and west below the porch roof between 5m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JLGS03,43.75174,110.72222,The third light from the west on the north side of the building below the porch roof ,3,Yellow-white,about 4 meters,"N, E, W",5-20 meters,JS-01,,"The light is projected to the north, east, and west below the porch roof between 5m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JLGS04,43.75179,110.72226,The only light on the east side of the building below the porch roof,3,Yellow-white,about 4 meters,"N, E, S",5-20 meters,JS-01,,"The light is projected to the north, east, and south below the porch roof between 5m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JLGS05,43.75180,110.72216,The light above the lockers on the south side of the building below the porch roof,3,Yellow-white,about 4 meters,"E, S",5-20 meters,JS-01,,"The light is projected to the east, and south below the porch roof between 5m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JLGS06,43.75187,110.72161,The only light on the west side of the building,3,Yellow-white,about 4 meters,"N, S, W",7-20 meters,JS-01,,"The light is projected to the north, south, and west below the porch roof between 7m and 20m, depending on whether or not the porch roof obstructs the light's path in a given direction."
+JOHN01,43.93881,110.64239,Beneath the roof of the south entrance to the east part of Johnson Lodge,2,Yellow-white,about 2.5 meters,"N, S",20 meters,1346,X,
+LE01,43.93003,110.63892,2 lights on light post opposite eachother on the northeast corner of the east parking lot,2,Orange,about 5 meters,"N, E, S, W",60 meters,N/A (Leeks Marina East Parking Lot),,
+LE02,43.92973,110.63908,2 lights on light post opposite eachother just south of the northwest corner of the east parking lot,2,Orange,about 5 meters,"N, E, S, W",60 meters,N/A (Leeks Marina East Parking Lot),,
+LE03,43.92914,110.63893,2 lights on light post opposite eachother on the southwest corner of the east parking lot,2,Orange,about 5 meters,"N, E, S, W",60 meters,N/A (Leeks Marina East Parking Lot),,
+LE04,43.92916,110.63857,2 lights on light post opposite eachother on the southeast corner of the east parking lot,2,Orange,about 5 meters,"N, E, S, W",60 meters,N/A (Leeks Marina East Parking Lot),,
+LE05,43.92962,110.63974,2 lights on light post opposite eachother in the center of the south side of the west parking lot,2,Orange,about 5 meters,"N, E, S, W",60 meters,N/A (Leeks Marina West Parking Lot),,
+LE06,43.93016,110.64010,Light on south side of the Electric/Pumphouse,2,Orange,about 5 meters,"N, E, S, W",40 meters,N/A (Leeks Marina Electric/Pumphouse),,There is a shield on the top of the lamp that directs light downward
+LE07,43.93049,110.63956,Westmost light in the ceiling of the walkway roof between the east and west portions of the restaurant building.,3,Blue white,about 4 meters,"N, E, S, W",10 meters,626,,"The lights are recessed in the ceiling, so they project mostly down."
+LE08,43.93048,110.63958,Middle light in the ceiling of the walkway roof between the east and west portions of the restaurant building.,3,Blue white,about 4 meters,"N, E, S, W",10 meters,626,,"The lights are recessed in the ceiling, so they project mostly down."
+LE09,43.93047,110.63960,Eastmost light in the ceiling of the walkway roof between the east and west portions of the restaurant building.,3,Blue white,about 4 meters,"N, E, S, W",10 meters,626,,"The lights are recessed in the ceiling, so they project mostly down."
+LE10,43.93050,110.63959,Light on the east side of the west portion of the restaurant to the north of the walway roof between restaurant buildings.,2,Yellow white,about 3 meters,"N, E, S",40 meters,626,,
+LE11,43.93045,110.63955,Light on the east side of the west portion of the restaurant to the south of the walway roof between restaurant buildings.,2,Yellow white,about 3 meters,"N, E, S",40 meters,626,,
+MCL1,43.84218,110.50932,Light fixture on the east side of the northeast wall of the structure,1,Blue-white,about 3 meters,"N, E, SE",1 meter,1428,X,
+MCL2,43.84219,110.50934,Light fixture on the west side of the northeast wall of the structure,1,Blue-white,about 3 meters,"N, E, SE",1 meter,1428,X,
+MCL3,43.84150,110.50747,Light fixture in the center of the southwest wall of the structure,3,Orange,about 3 meters,"SE, S, W",35 meters,N/A (Moran Elementary School),,
+MCL4,43.84148,110.50727,Light fixture on the east side of the southwest wall of the structure,3,Orange,about 4 meters,"SE, S, W",35 meters,N/A (Moran Elementary School),,
+MOHQ01,43.65590,110.71600,Located above the southwest entrance to the building,4,Green-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 3.5m."
+MOHQ02,43.65583,110.71664,Located above the southwest entrance to the building,4,Green-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 3.5m."
+MOHQ05,43.65639,110.71491,Located above an entrance door on the southeast side of the building,3,Blue-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 5m."
+MOHQ06,43.65631,110.71484,Located above an entrance door on the southeast side of the building,4,Green-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 3.5m."
+MOHQ07,43.65622,110.71477,Located above an entrance door on the southeast side of the building,4,Green-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 3.5m."
+MOHQ08,43.65626,110.71465,Located above an entrance door on the southeast side of the building,4,Green-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 3.5m."
+MOHQ09,43.65645,110.71460,Located above an entrance door on the northeast side of the building,3,Blue-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 5m."
+MOHQ10,43.65656,110.71466,Located above an entrance door on the northeast side of the building,3,Blue-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 5m."
+MOHQ11,43.65625,110.71551,Located above a garage bay door on the northwest side of the building,3,Blue-white,about 4 meters,,,142,,"The light is shielded so it only points down, with a projected light radius of about 5m."
+MOPO01,43.65609,110.71767,The light below the peak of the roof covering the south porch,3,Orange,about 3 meters,"E, S, W",20 meters,N/A (Moose Post Office),,
+MPOS01,43.65631,110.71776,The light is the only one on the east side of the shed,3,White,about 3 meters,"E, S, W",10 meters,N/A (Shed to northwest of Moose Post Office),,
+SM01,43.84175,110.61200,Light on the west wall of the structure,2,Orange,about 3 meters,"N, S, W",30 meters,N/A (Signal Mountain Pumphouse),,
+SM02,43.84175,110.61195,Flood light on the top of the structure,3,Yellow-white,about 5 meters,"N, E, W",60 meters,N/A (Signal Mountain Pumphouse),,Light is cast up to 60 meters when unobstructed though trees block most light cast.
+SM03,43.84185,110.61178,Light illuminating the area around the hose by the pumphouse,2,Orange,about 6 meters,"N, E, S, W",60 meters,N/A (To the west of the Signal Mountain Pumphouse),,
+SM04,43.84227,110.61190,Light illuminating west information board by registration kiosk,3,Yellow-white,about 2 meters,"N, E, W",40 meters,N/A (To the west of the Signal Mountain Registration Kiosk),,Most light is blocked by the info board.
+SM05,43.84232,110.61182, Light illuminating east information board by registration kiosk,3,Yellow-white,about 2 meters,"N, E, W",40 meters,N/A (To the west of the Signal Mountain Registration Kiosk),,Most light is blocked by the info board.
+SM06,43.84234,110.61181,Light on the south side of the structure,3,Yellow-white,about 2.5 meters,"S, W",50 meters,N/A (Registration Kiosk),,
+SM07,43.84237,110.61177,Light on the east side of the structure,3,Yellow-white,about 2.5 meters,"N, E, S",50 meters,N/A (Registration Kiosk),,
+SM08,43.84244,110.61148,Light illuminating walkway east of registration kiosk,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Registration Kiosk),,
+SM09,43.84250,110.61165,Eastmost light within the south side porch roof,3,Yellow-white,about 3 meters,"S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but south and west to a degree"
+SM10,43.84245,110.61171,Second from eastmost light within the south side porch roof,3,Yellow-white,about 3 meters,"E, S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but south, east, and west to a degree"
+SM100,43.84570,110.60917,Light on the east side of the structure illuminating the room number sign on the north end,3,Yellow-white,about 3 meters,"N, E, S",30 meters,SM-17,,
+SM101,43.84567,110.60915,Light on the east side of the structure illuminating the north entrance to the structure ,2,Yellow-white,about 3 meters,"N, E, S",30 meters,SM-17,X,
+SM102,43.84563,110.60925,Light on the east side of the structure illuminating the room number sign on the south end,3,Yellow-white,about 3 meters,"N, E, S",30 meters,SM-17,,
+SM103,43.84568,110.60967,Light illuminating the west side of the guest housing roadway,2,Blue-white,about 6 meters,"N, E, S, W",40 meters,N/A (Northwest of SM-20),,
+SM104,43.84581,110.61009,Light on the northeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-22,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM105,43.84571,110.61014,Light on the southeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-22,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM106,43.84573,110.61025,Light on the south side of the structure illuminating the room number sign on the bottom floor,3,Yellow-white,about 3 meters,"E, S, W",10 meters,SM-22,,"Light is projected primarily down due to the cover around the lamp, but also south, east, and west"
+SM107,43.84561,110.61021,Light on the northeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-23,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM108,43.84553,110.61029,Light on the southeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-23,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM109,43.84542,110.61019,Light illuminating the west side of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Southwest of SM-20),,
+SM11,43.84237,110.61176,Third from eastmost light within the south side porch roof,3,Yellow-white,about 3 meters,"E, S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but south, east, and west to a degree"
+SM110,43.84535,110.61040,Light on the northeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-24,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM111,43.84526,110.61043,Light on the southeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-24,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM112,43.84513,110.61047,Light on the northeast corner of the structure illuminating the room number sign,3,White,about 3 meters,"N, E, S",10 meters,SM-25,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM113,43.84504,110.61050,Light on the southeast corner of the structure illuminating the room number sign,3,White,about 3 meters,"N, E, S",10 meters,SM-25,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM114,43.84492,110.61060,Light on the northeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-26,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM115,43.84484,110.61065,Light on the southeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-26,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM116,43.84487,110.61075,Light on the south side of the structure illuminating the room number sign on the first floor room,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-26,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM117,43.84474,110.61073,Light on the northeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-27,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM118,43.84463,110.61079,Light on the southeast side of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-27,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM119,43.84452,110.61074,Light on the northeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-28,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM12,43.84235,110.61187,Westmost light within the south side porch roof,3,Yellow-white,about 3 meters,"E, S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but south, east, and west to a degree"
+SM120,43.84441,110.61079,Light on the southeast corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-28,,"Light is projected primarily down due to the cover around the lamp, but also north, east, and south."
+SM121,43.84458,110.61076,Light on the southwest corner of the structure illuminating the room number sign,3,Yellow-white,about 3 meters,"E, S, W",10 meters,SM-29,,"Light is projected primarily down due to the shield around the lamp, but also to the south, east, and west."
+SM122,43.84485,110.61002,Light beneath the roof peak of the porch of room 107,3,Yellow-white,about 3 meters,"N, E, S",20 meters,SM-8,X,
+SM123,43.84496,110.61005,Light beneath the roof peak of the porch of room 108,3,Yellow-white,about 3 meters,"N, E, W",20 meters,SM-8,X,
+SM124,43.84514,110.60988,Light on the east side of the structure illumintating the room number 112 sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-10,,"Light is projected primarily down due to the shield around the light, but also north, east, and south."
+SM125,43.84512,110.60996, Light on the east side of the structure illumintating the room number 111 sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-10,,"Light is projected primarily down due to the shield around the light, but also north, east, and south."
+SM126,43.84520,110.60963,Light on the southeast corner of the structure that would be illuminating a room sign if it was there,3,Yellow-white,about 3 meters,"E, S, W",10 meters,SM-12,,"Light is projected primarily down due to the shield around the lamp, but also east, south, and west"
+SM127,43.84527,110.60947,Light on the northeast corner of the structure that illuminates the room number 122 sign,3,Yellow-white,about 3 meters,"N, E, S",10 meters,SM-12,,"Light is projected primarily down due to the shield around the lamp, but also east, south, and west"
+SM128,43.84547,110.60937,Light on the west side of the room 129 porch,3,Yellow-white,about 3 meters,"N, W, S",30 meters,"N/A (Cabin 129, 130)",X,
+SM129,43.84553,110.60957,Light on the west side of the structure illuminating a porch,3,Yellow-white,about 2 meters,"N, W, S",30 meters,SM-18,X,
+SM13,43.84242,110.61189,Southtmost light beneath the west side porch roof,3,Yellow-white,about 3 meters,"N, S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down due to the shield around the light, but north, west, and south to a degree"
+SM130,43.84551,110.60993,Light on the north side of the structure illuminating the porch,3,Yellow-white,about 2 meters,"N, E, W",30 meters,SM-20,X,
+SM14,43.84251,110.61192,Northmost light beneath the west side porch roof,3,Yellow-white,about 3 meters,"N, S, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down due to the shield around the light, but north, west, and south to a degree"
+SM15,43.84257,110.61191,Westmost light beneath the north side porch roof,3,Yellow-white,about 3 meters,"N, E, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but north, east, and west to a degree."
+SM16,43.84264,110.61176,Second from westmost light within the north side porch roof,3,Yellow-white,about 3 meters,"N, E, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but north, east, and west to a degree"
+SM17,43.84269,110.61166,Third from westmost light within the north side porch roof,3,Yellow-white,about 3 meters,"N, E, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but north, east, and west to a degree"
+SM18,43.84270,110.61161,Eastmost light within the south side porch roof,3,Yellow-white,about 3 meters,"N, E, W",5 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down, but north, east, and west to a degree."
+SM19,43.84250,110.61155,Light on the east side of the structure,3,Yellow-white,about 3 meters,"N, E, S",10 meters,N/A (Signal Mountain Shower/Laundry Building),,"Light is projected primarily down due to the shield around the light, but north, east, and south to a degree."
+SM21,43.84334,110.61127,Light on the east side of the structure over the Signal Mountain Lodge sign,2,Orange,about 8 meters,"N, E, S",50 meters,SM-1,,
+SM22,43.84360,110.61120,Light illuminating walkway on the north side of the lodge and restaurant,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (North of SM-1),,
+SM22,43.84357,110.61127,Light illuminating enclosed work area on the north side of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, E, W",20 meters,SM-1,,
+SM23,43.84360,110.61143,Light illuminating northeast corner of the lodge and restaurant,3,Yellow-white,about 8 meters,"N, E, W",80 meters,SM-1,,
+SM24,43.84357,110.61144,Northmost light illuminating walkway within the bottom of the west side deck of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, S, W",10 meters,SM-1,,
+SM25,43.84352,110.61147,Second to northmost light illuminating walkway within the bottom of the west side deck of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, S, W",10 meters,SM-1,,
+SM26,43.84351,110.61144,Third to northmost light illuminating walkway within the bottom of the west side deck of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, S, W",10 meters,SM-1,,
+SM27,43.84349,110.61144,Fourth to northmost light illuminating walkway within the bottom of the west side deck of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, S, W",10 meters,SM-1,,
+SM28,43.84351,110.61146,Southmost light illuminating walkway within the bottom of the west side deck of the lodge and restaurant,3,Yellow-white,about 3 meters,"N, S, W",10 meters,SM-1,,
+SM29,43.84333,110.61150,Light illuminating work corridor on the west side of the lodge and restaurant,3,White,about 6 meters,W,40 meters,SM-1,,
+SM30,43.84322,110.61150,Light illuminating walkway on the south end of the west side of the lodge and restaurant ,3,Yellow-white,about 3 meters,"S, W",30 meters,SM-1,,
+SM32,43.84389,110.61178,Light on the south side of the structure beneath the porch,2,Yellow-white,about 2.5 meters,"E, S, W",20 meters,SM-4,,
+SM33,43.84381,110.61201,Light illuminating dock area,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (West of SM-4),,
+SM34,43.84382,110.61073,Light illuminating north side of parking lot to east of lodge and restaurant,3,Yellow-white,about 6 meters,"N, E, S, W",40 meters,N/A (East of SM-1),,
+SM35,43.84409,110.61076,Light illuminating the sign on the south side of the registration building entrance,3,Yellow-white,about 5 meters,"E, S, W",25 meters,SM-5,,
+SM36,43.84409,110.61076,Westmost light in the roof of the south set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM37,43.84409,110.61076,Middle light in the roof of the south set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM38,43.84411,110.61065,Eastmost light in the roof of the south set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM39,43.84415,110.61065,Eastmost light in the roof of the north set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM40,43.84415,110.61067,Middle light in the roof of the north set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM41,43.84414,110.61066,Westmost light in the roof of the north set of lights illuminating the registration building entrance,2,Yellow-white,about 5 meters,"N, E, S, W",5 meters,SM-5,,
+SM42,43.84411,110.61059,South light next to the entrance door to the registration building,2,Yellow-white,about 2 meters,"N, E, S",20 meters,SM-5,,
+SM43,43.84413,110.61061,North light next to the entrance door to the registration building,2,Yellow-white,about 2 meters,"N, E, S",20 meters,SM-5,,
+SM44,43.84425,110.61097,Northmost light on the west wall of the building beneath the deck,3,Yellow-white,about 2 meters,"N, S, W",10 meters,SM-5,,"Light is projected primarily down due to the sleeve around the lamp, but is also cast north, west, and south."
+SM45,43.84420,110.61101,Second from northmost light on the west wall of the building beneath the deck,3,Yellow-white,about 2 meters,"N, S, W",10 meters,SM-5,,"Light is projected primarily down due to the sleeve around the lamp, but is also cast north, west, and south."
+SM46,43.84415,110.61102,Southmost light on the west side of the building beneath the deck,3,Yellow-white,about 2 meters,"N, W",10 meters,SM-5,,"Light is projected primarily down due to the sleeve around the lamp, but is also cast north and west."
+SM47,43.84406,110.61108,LED light on the southwest corner of the structure,4,Blue-white,about 7 meters,"N, S, W",60 meters,SM-5,,
+SM48,43.84407,110.61104,South light on the west side of the building over the second floor deck,3,Yellow-white,about 2 meters above the second floor deck,"N, S, W",10 meters,SM-5,," Light is projected primarily down due to the sleeve around the lamp, but is also cast north, west, and south.  "
+SM49,43.84412,110.61105,North light on the west side of the building over the second floor deck,3,Yellow-white,about 2 meters above the second floor deck,"N, S, W",10 meters,SM-5,," Light is projected primarily down due to the sleeve around the lamp, but is also cast north, west, and south.  "
+SM50,43.84405,110.61095,Light on the south side of the structure above an entrance,3,Yellow-white,about 2 meters ,"E, S, W",10 meters,SM-5,,"Light is projected primarily down due to the sleeve around the lamp, but is also cast east, west, and south"
+SM51,43.84020,110.61228,Light illuminating north roadway entrance to employee dorms,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Employee Parking Lot Loop),,
+SM52,43.84050,110.61235,Eastmost light on the south side of the structure,2,Yellow,about 2 meters,"E, S, W",30 meters,SM-31,X,
+SM53,43.84054,110.61246,Middle light on the south side of the structure,2,Yellow,about 2 meters,"E, S, W",30 meters,SM-31,X,
+SM54,43.84061,110.61263,Westmost light on the south side of the structure,2,Yellow,about 2 meters,"E, S, W",30 meters,SM-31,X,
+SM55,43.84068,110.61270,Southmost light on the west side of the structure,2,Yellow,about 2 meters,"N, S, W",30 meters,SM-31,X,
+SM56,43.84073,110.61271,Northmost light on the west side of the structure,2,Yellow,about 2 meters,"N, S, W",30 meters,SM-31,X,
+SM57,43.84071,110.61245,Westmost light on the north side of the structure,2,Orange,about 2 meters,"N, E, W",30 meters,SM-31,X,
+SM58,43.84053,110.61219,Eastmost light on the north side of the structure,2,Orange,about 2 meters,"N, E, W",30 meters,SM-31,X,
+SM59,43.84063,110.61225,Southmost light on the east side of the structure,2,Orange,about 2 meters,"N, E, S",30 meters,SM-31,X,
+SM60,43.84052,110.61210,Northmost light on the east side of the structure,2,Orange,about 2 meters,"N, E, S",30 meters,SM-31,X,
+SM61,43.84084,110.61255,Eastmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-33,X,
+SM62,43.84088,110.61269,Middle light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-33,X,
+SM63,43.84093,110.61282,Westmost light on the south side of the structure,2,Orange,about 2 meters,"E, S, W",30 meters,SM-33,X,
+SM64,43.84099,110.61288,Southmost light on the west side of the structure,2,Yellow,about 2 meters,"N, S, W",30 meters,SM-33,X,
+SM65,43.84105,110.61275,Westmost light on the north side of the structure,2,Yellow,about 5 meters,"N, E, W",30 meters,SM-33,X,
+SM66,43.84097,110.61255,Eastmost light on the north side of the structure,2,Orange,about 5 meters,"N, E, W",30 meters,SM-33,X,
+SM67,43.84093,110.61243,Northmost light on the east side of the structure,2,Orange,about 5 meters,"N, E, S",30 meters,SM-33,,
+SM68,43.84088,110.61237,Northmost light beside the east entrance to the structure,2,Orange,about 2 meters,"N, E, S",30 meters,SM-33,X,
+SM69,43.84084,110.61234,Southmost light beside the east entrance to the structure,2,Yellow,about 2 meters,"N, E, S",30 meters,SM-33,X,
+SM70,43.84069,110.61282,Eastmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-32,X,
+SM71,43.84069,110.61314,Westmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-32,X,
+SM72,43.84076,110.61322,Southmost light on the west side of the structure,2,Yellow-white,about 2 meters,"N, S, W",30 meters,SM-32,X,
+SM73,43.84082,110.61329,Northmost light on the west side of the structure,2,Yellow-white,about 2 meters,"N, S, W",30 meters,SM-32,X,
+SM74,43.84081,110.61318,Only light on the north side of the structure,2,Yellow-white,about 2 meters,"N, E, W",30 meters,SM-32,X,
+SM75,43.84075,110.61274,Southmost light on the east side of the structure,2,Yellow-white,about 2 meters,"N, E, S",30 meters,SM-32,X,
+SM76,43.84076,110.61266,Northmost light on the east side of the structure,2,Yellow-white,about 2 meters,"N, E, S",30 meters,SM-32,X,
+SM77,43.84034,110.61296,Light in the middle of the west side of the structure,2,Yellow-white,about 2 meters,"N, S, W",30 meters,SM-34,X,
+SM78,43.84035,110.61279,Light in the middle of the east side of the structure,2,Yellow-white,about 2 meters,"N, E, S",30 meters,SM-34,X,
+SM79,43.84024,110.61282,Light in the middle of the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-34,X,
+SM80,43.84036,110.61317,Light illuminating curve of the employee dorm parking lot,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Employee Parking Lot Loop),,
+SM81,43.84012,110.61308,Light illuminating the west portion of the south part of the employee dorm parking lot,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Employee Parking Lot Loop),,
+SM82,43.84006,110.61243,Light illuminating the south roadway exit to the employee dorm parking lot,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Employee Parking Lot Loop),,
+SM83,43.84145,110.61238,Light illuminating the south end of the walkway from the pumphouse,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (To the south of the Signal Mountain Pumphouse),,
+SM84,43.84449,110.61050,Light illuminating the south end of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (East of SM-29),,
+SM85,43.84436,110.61031,Light on the south side of the structure by the west entrance,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-6,X,
+SM86,43.84448,110.61010, Light on the north side of the structure by the west entrance,2,Yellow-white,about 2 meters,"N, E, W",30 meters,SM-6,X,
+SM87,43.84453,110.61009,Light on the north side of the structure by the east entrance,2,Yellow-white,about 2 meters,"N, E, W",30 meters,SM-6,X,
+SM88,43.84469,110.60991,Westmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-7,X,
+SM89,43.84468,110.60989,Middle light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-7,X,
+SM90,43.84464,110.60989,Eastmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-7,X,
+SM91,43.84478,110.60996,Light illuminating the east side of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Southwest of SM-10),,
+SM92,43.84494,110.60976, Light on the west side of the structure,2,Yellow-white,about 2 meters,"N, S, W",30 meters,SM-9,X,
+SM93,43.84514,110.60974,Light illuminating the east side of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (East of SM-12),,
+SM94,43.84501,110.60950,Westmost light on the south side of the structure,2,Yellow-white,about 3 meters,"E, S, W",30 meters,SM-11,X,
+SM95,43.84496,110.60954,Eastmost light on the south side of the structure,2,Yellow-white,about 3 meters,"E, S, W",30 meters,SM-11,X,
+SM96,43.84524,110.60942,Light illuminating the east side of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (Northeast of SM-12),,
+SM97,43.84541,110.60899,Light illuminating the north side of the guest housing roadway,2,Orange,about 6 meters,"N, E, S, W",40 meters,N/A (East of SM-18),,
+SM98,43.84554,110.60887,Westmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-16,X,
+SM99,43.84549,110.60883,Eastmost light on the south side of the structure,2,Yellow-white,about 2 meters,"E, S, W",30 meters,SM-16,X,
+TD01,43.67029,110.59707,Light fixture beneath the porch by the entrance to the west side of the structure,3,Yellow-white,about 2 meters,"S, W",50 meters,785,,
+TD02,43.67006,110.59721,Light on the west side of the structure beneath the porch roof,3,Yellow-white,about 2 meters,"N, W",50 meters,802,,
+TX01,43.76336,110.56506,Light on the north side of the west entrance to the structure,3,Yellow-white,about 2 meters,"N, E, S",50 meters,T31,X,
+TX02,43.76335,110.56506,Light on the south side of the west entrance to the structure,3,Yellow-white,about 2 meters,"N, E, S",50 meters,T31,X,
+TX03,43.76405,110.56742,Light fixture on the west side of the structure beneath the roof peak,3,Yellow-white,about 7 meters,"N, E, S",30 meters,T04,X,
+TX04,43.76394,110.56849,Light above the north entrance to the structure,3,Yellow-white,about 2 meters,"N, E, W",40 meters,773,X,
+TX05,43.76453,110.56869,Light on the southwest side of the structure below the porch roof,3,Yellow-white,about 2 meters,"SE, S, W",30 meters,T21,X,
+TX06,43.76419,110.56828,Light on a lightpole on the north side of the structure,4,White,about 10 meters,"N, E, S, W",80 meters,704,,
+TX07,43.76461,110.56728,Light on a lightpole on the east side of the structure,4,White,about 10 meters,"N, E, S, W",80 meters,T19,,
+WOSH01,43.93903,110.64219,The light at the peak of the roof on the south side of the building,3,Blue-white,about 5 meters,"N, E, S",40 meters,1352,,
