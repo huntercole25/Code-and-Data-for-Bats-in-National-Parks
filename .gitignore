@@ -45,4 +45,4 @@ Data/GisData/Elevation/*.tif
 Data/Benchmark_Data/
 
 # Output
-Output/
+Output/*
