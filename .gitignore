@@ -40,3 +40,9 @@ vignettes/*.pdf
 
 # Full DEMs
 Data/GisData/Elevation/*.tif
+
+# Benchmark Data
+Data/Benchmark_Data/
+
+# Output
+Output/
