@@ -7,16 +7,22 @@ library(performance)
 library(DHARMa)
 library(EcoCountHelper)
 
+# Reading prepped data
 SppAccpData <- fread("./Data/Benchmark_Data/03_SppAccpFinalParams.csv") 
+
+# Converting SampleDate vector from character to Date class
 SppAccpData[,SampleDate := ymd(SampleDate, tz = "America/Denver")]
+
+# Making site and year factor class for categorical interpretation by models
 SppAccpData[,Site := as.factor(Site)]
 SppAccpData[,Year := as.factor(Year)]
 
-
+# Creating list of species classified by SonoBat
 UntruncSpecies <- grep("^[[:alpha:]]{4}$", names(SppAccpData), value = T)
 PossibleSpecies <- UntruncSpecies[!UntruncSpecies == "Site" & !UntruncSpecies == "Elev" &
                                     !UntruncSpecies == "Yday" & !UntruncSpecies == "Year"]
 
+# Truncating data to species that are present in 50 or more site-nights of data
 ObsList <- list()
 
 for(i in PossibleSpecies){
@@ -27,7 +33,7 @@ for(i in PossibleSpecies){
 ObsTable <- rbindlist(ObsList)
 TruncSpecies <- ObsTable[PresentNights >= 50, Species]
 
-
+# Creating function to generate candidate models for each species
 IdealModeller <- function(Data, Species){
   x <- get("x")
   
@@ -95,12 +101,14 @@ IdealModeller <- function(Data, Species){
   assign(paste0(Species, "ZiPoi"), SpZiPoi, pos = .GlobalEnv)
 }
 
+# Starts progress bar
 pb <- txtProgressBar(0, (6*length(TruncSpecies)), 0, style = 3)
 x <- 0
 
 lapply(TruncSpecies, IdealModeller, Data = SppAccpData)
 close(pb)
 
+# SAving glmmTMB objects to file
 AllGlmmTMB <- Filter(function(x) inherits(get(x), "glmmTMB"), ls(pos = .GlobalEnv))
 
 ModSaver <- function(ModList, SaveDir){
@@ -114,20 +122,26 @@ if(!"Models" %in% dir()){dir.create("./Models")}
 
 ModSaver(AllGlmmTMB, "./Models")
 
+# Creating AIC tables for each species
 ModelCompare(TruncSpecies, TopModAll)
 
+# Creating plots to visually assess mean-variance relationship for each species to inform
+# error-distribution family selection
 DistFitWide(c("Year", "Site"), SppAccpData, TruncSpecies)
 
+# Checking VIFs for all top models
 for(i in TopModAll$TopModel){
   TmpMod <- get(i)
   print(i)
   print(check_collinearity(TmpMod))
 }
 
+# Creating simulated residual diagnostic plots for checking goodness-of-fit
 ResidPlotWide(SppAccpData, TopModAll$TopModel, "^[[:alpha:]]{4}", TestVals = F)
 
 if(!"TopMods" %in% dir("./Models")){dir.create("./Models/TopMods")}
 
+# Saving selected models for each species
 for(i in TopModAll$TopModel){
   saveRDS(get(i), file = paste0("./Models/TopMods/", i, ".rds"))
 }

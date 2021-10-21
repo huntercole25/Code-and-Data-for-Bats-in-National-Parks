@@ -7,11 +7,15 @@ library(cowplot)
 library(kableExtra)
 library(tidyr)
 
+# Reading data used in models
 SppAccpData <- fread("./Data/Benchmark_Data/03_SppAccpFinalParams.csv")
+
+# Prepping data 
 SppAccpData[,SampleDate := ymd(SampleDate, tz = "America/Denver")]
 SppAccpData[,Site := as.factor(Site)]
 SppAccpData[,Year := as.factor(Year)]
 
+# Reading selected model for each species
 Mods <- character()
 for(i in list.files("./Models/TopMods", full.names = T)){
   TmpMod <- readRDS(i)
@@ -21,24 +25,35 @@ for(i in list.files("./Models/TopMods", full.names = T)){
   Mods <- c(Mods, ModName)
 }
 
+# Specifying labels in correct order for plots
 Labs <- c("Intercept (Site)", "Structure Index", "Prop. Cool Lights", "Brightness Index", "Year (16-17)",
           "Ordinal Day", "Elevation", "Water Distance", "Prop. Developed", "Prop. Forest", "Moon Illum.")
 
+# Generating effects plots for each species
 EffectsPlotter(Mods, Labs,
                ConfInts = c(95, 85), ThemeBlack = F)
+
+# Adding species title to each effects plot
 EfPlots <- ls(pattern = "EffectsPlot")
 for(i in EfPlots){
   TmpPlot <- get(i)
   TmpPlot <- TmpPlot + labs(title = substr(i, 1, 4))
   assign(i, TmpPlot)
 }
+
+# Creating multi-panel plot with all species effects plots
 FullEffects <- DumbGrid(EpfuNb2EffectsPlot, LaciNb2EffectsPlot, LanoNb2EffectsPlot, MyevNb2EffectsPlot,
          MyluNb2EffectsPlot, MyvoNb2EffectsPlot, MyyuNb2EffectsPlot, Ncols = 3, FirstColWidth = 1.5)
 
+# Saving multi-panel effects plot to file
 if(!"Output" %in% dir()){dir.create("./Output")}
 
 ggsave("./Output/FullEffects.png", FullEffects, width = 8, height = 8)
 
+
+# Generating continuous data for each variable spanning the full extent of each
+# continuous variable with all other variables held constant. These data will be
+# used to visualize continuous model predictions for each numeric parameter.
 Forest <- expand.grid(MoonScale = median(SppAccpData$MoonScale),
                       ForestScale = seq(min(SppAccpData$ForestScale), max(SppAccpData$ForestScale),
                                         length.out = nrow(SppAccpData)),
@@ -124,6 +139,8 @@ Structures <- expand.grid(MoonScale = median(SppAccpData$MoonScale),
                                          length.out = nrow(SppAccpData)),
                           Site = NA)
 
+# Generating table to iterate over with data table names, scaled term vector names,
+# unscaled term vector names, and labels for each numeric vector.
 PredMeta <- data.table(DfName = c("Forest", "Devel", "Water", "Elev", "Bright", "Cool", "Structures"),
                        ScaleTerm = c("ForestScale", "DevelScale", "WaterScale", "ElevScale", "BrightScale",
                                      "CoolScale", "StrScale"),
@@ -134,7 +151,7 @@ PredMeta <- data.table(DfName = c("Forest", "Devel", "Water", "Elev", "Bright", 
                                   "Distance to Water (m)", "Elevation (m)", "Brightness Index Sum",
                                   "Proportion Cool Lights", "Structure Index"))
 
-####Params by Species####
+# Plotting each species' predicted response to changes in each continuous parameter
 pb <- txtProgressBar(0, (nrow(PredMeta)*length(Mods)), style = 3)
 x <- 0
 ResList <- list()
@@ -208,6 +225,17 @@ for(h in 1:length(Mods)){
   assign(GridName, GridPlot)
 }
 
+# Creating multi-panel plot with predicted responses of each species to changes
+# in continuous parameters
+Top <- plot_grid(EpfuParamGrid, LaciParamGrid, LanoParamGrid, MyevParamGrid, MyluParamGrid, MyvoParamGrid,
+                 ncol = 3)
+Bottom <- plot_grid(NULL, MyyuParamGrid, NULL, ncol = 3)
+
+Both <- plot_grid(Top, Bottom, ncol = 1, rel_heights = c(2,1))
+
+ggsave("./Output/FullParamGrid.png", plot = Both, height = 18, width = 24, dpi = 200)
+
+# Creating model summary table
 ModSums <- rbindlist(TabList)
 setnames(ModSums, c("Std. Error", "Pr(>|z|)"), c("SE", "p"))
 ModSums[p < 0.001, pchar := "<0.001"]
@@ -242,15 +270,8 @@ if(!"Tables" %in% dir("./Output")){dir.create("./Output/Tables")}
 
 fwrite(ModSumsWide, "./Output/Tables/ModelSummary.csv")
 
-Top <- plot_grid(EpfuParamGrid, LaciParamGrid, LanoParamGrid, MyevParamGrid, MyluParamGrid, MyvoParamGrid,
-          ncol = 3)
-Bottom <- plot_grid(NULL, MyyuParamGrid, NULL, ncol = 3)
-
-Both <- plot_grid(Top, Bottom, ncol = 1, rel_heights = c(2,1))
-
-ggsave("./Output/FullParamGrid.png", plot = Both, height = 18, width = 24, dpi = 200)
-
-####RealEfTab Table generation####
+# Generating table with predicted response of each species to a specified change in
+# each continuous parameter.
 RealEf <- RealEffectTabWide(ls(pattern = "^[[:alpha:]]{4}Nb2$"), rownames(summary(EpfuNb2)$coeff$cond)[c(2:4, 7:10)],
                   c(0.05, 0.2, 5, 50, 250, 0.2, 0.2), ScaleSds = c(2,2,2,2,2,2,2),
                   PredVects = c("StrWeight", "PropCool", "BrightCount", "Elev", "WaterDist",
@@ -275,10 +296,12 @@ setnames(RealEfWide, old = c("PredNature", "UnitChange"),
          new = c("Predictor Classification", "Unit Increase"),
          skip_absent = T)
 
+# Writing model predictions for a given change in continuous parameters to file
 fwrite(RealEfWide, "./Output/Tables/RealEfWide.csv")
 
 RealEfWide[,`Predictor Classification` := NULL]
 
+# Formatting a kable table and writing it to file
 RealEfTab <- kable(RealEfWide, align = "c") %>% 
   kable_styling(font_size = 24) %>% 
   row_spec(seq(2, nrow(RealEfWide), 2), background = "grey") %>% 

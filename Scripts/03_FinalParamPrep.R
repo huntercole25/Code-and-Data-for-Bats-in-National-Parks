@@ -42,4 +42,5 @@ SppAccpFinal[,BrightScale := scale2(BrightCount)]
 SppAccpFinal[,CoolScale := scale2(PropCool)]
 SppAccpFinal[,StrScale := scale2(StrWeight)]
 
+# Writing prepped data to file
 write.csv(SppAccpFinal, file = "./Data/Benchmark_Data/03_SppAccpFinalParams.csv", row.names = F)
